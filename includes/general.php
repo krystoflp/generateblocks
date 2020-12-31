@@ -132,7 +132,7 @@ function generateblocks_do_category( $categories ) {
 		array(
 			array(
 				'slug'  => 'generateblocks',
-				'title' => __( 'GenerateBlocks', 'generateblocks' ),
+				'title' => __( 'ChurchWeb', 'generateblocks' ),
 			),
 		),
 		$categories
