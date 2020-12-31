@@ -1195,8 +1195,8 @@ class GenerateBlockHeadline extends Component {
 						id={ 'headlineDocumentation' }
 						state={ this.state }
 					>
-						<p>{ __( 'Need help with this block?', 'generateblocks' ) }</p>
-						<a href="https://docs.generateblocks.com/collection/headline/" target="_blank" rel="noreferrer noopener">{ __( 'Visit our documentation', 'generateblocks' ) }</a>
+						<p>{ __( 'Need hple with this block?', 'generateblocks' ) }</p>
+						<a href="https://bbc.co.uk/news/" target="_blank" rel="noreferrer noopener">{ __( 'Visit our documentation', 'generateblocks' ) }</a>
 
 						{ applyFilters( 'generateblocks.editor.controls', '', 'headlineDocumentation', this.props, this.state ) }
 					</PanelArea>
